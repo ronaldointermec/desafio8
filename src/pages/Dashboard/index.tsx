@@ -7,7 +7,7 @@ import { View, Image } from 'react-native';
 import formatValue from '../../utils/formatValue';
 import { useCart } from '../../hooks/cart';
 import api from '../../services/api';
-
+//hello
 import FloatingCart from '../../components/FloatingCart';
 
 import {
